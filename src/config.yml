@@ -1,6 +1,6 @@
-dbAddressConnection: "mongodb://admin:god@172.28.112.2:27017/?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&directConnection=true&ssl=false"
-adminName: "admin"
-adminPassword: "god"
+dbAddressConnection: "****"
+adminName: "***"
+adminPassword: "***"
 administrator:
   userName: "Admin"
-  password: "Admin"
+  password: "***"
